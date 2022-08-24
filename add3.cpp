@@ -3,7 +3,7 @@
 int main()
 {
     int a,b,c=0,d;
-    cout<<"enter tow number";
+    cout<<"enter tow numberalidfuwoafow";
     cin>>a>>b>>d;
     c=a+b+d;
     cout<<c;
